@@ -29,20 +29,23 @@ Se utilizara un proyecto Maven, con el cual se descargaran todas las dependencia
 En este proyecto y en los vídeos publicados en Youtube, se verán los siguientes temas:
 
 1)Configuración de Eclipse para SCP.
-1)Cómo crear una aplicación web simple en SCP.
-2)Cómo aplicar autenticación y autorización.
-3)Cómo exponer la funcionalidad empresarial con una API RESTful externa.
-4)Cómo agregar persistencia basada en JPA a tu aplicación web.
-5)Cómo aprovechar las funciones de multi-tenancy de SAP Cloud Platform.
-6)Cómo utilizar el servicio de conectividad para consumir servicios externos.
-7)Cómo agregar una interfaz de usuario basada en SAPUI5 para móviles a la aplicación web.
+
+2)Cómo crear una aplicación web simple en SCP.
+
+3)Cómo aplicar autenticación y autorización.
+
+4)Cómo exponer la funcionalidad empresarial con una API RESTful externa.
+
+5)Cómo agregar persistencia basada en JPA a tu aplicación web.
+
+6)Cómo aprovechar las funciones de multi-tenancy de SAP Cloud Platform.
+
+7)Cómo utilizar el servicio de conectividad para consumir servicios externos.
+
+8)Cómo agregar una interfaz de usuario basada en SAPUI5 para móviles a la aplicación web.
 
 Al finalizar los vídeos tendrán como resultado la aplicación alojada en este repositorio.
 
-
-![Figura 0.2][3]
-
-[3]: images/locoalien.png
 
 ## Autor desarrollo
 
